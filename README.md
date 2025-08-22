@@ -30,7 +30,7 @@ https://www.loom.com/share/8efd8f8454524cbc87b532218faa5fdc?sid=8772f32b-565a-41
 
 ## Notes
 
-One challenge I encountered while building the app was placing the tab bar correctly for navigation between the task list and calendar views. Initially, the tabs weren’t appearing as expected, which made it difficult to access the calendar. I overcame this by carefully reviewing the tab bar controller setup in Xcode, ensuring each view controller was properly embedded and each tab bar item had its title and icon configured. After making these adjustments, the tab bar functioned as intended, allowing users to seamlessly switch between the task list and calendar. This not only improved the usability of the app but also gave me a stronger understanding of view controller hierarchy and navigation in iOS.
+One challenge I encountered while building the app was placing the tab bar correctly for navigation between the task list and calendar views. Initially, the tabs weren’t appearing as expected, which made it difficult to access the calendar. I overcame this by carefully reviewing the tab bar controller setup in Xcode, ensuring each view controller was properly embedded and each tab bar item had its title and icon configured. After making these adjustments, the tab bar functioned as intended, allowing users to seamlessly switch between the task list and calendar. This not only improved the usability of the app but also gave me a stronger understanding of view controller hierarchy and navigation in IOS.
 
 ## License
 
